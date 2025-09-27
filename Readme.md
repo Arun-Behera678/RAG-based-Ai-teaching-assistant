@@ -15,3 +15,4 @@ Use the file process_json.py to convert the json files to a dataframe with Embed
 
 Read the joblib file and load it into the memory. Then create a relavant prompt as perr the user query and feed it to the LLM
 
+## step6 - Plz create videos folder, jsons folder, audios folder, before run all programs
